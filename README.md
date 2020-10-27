@@ -2,7 +2,7 @@
   <a href="https://www.flareco.net"><img src="flareco.png" alt="FlareCO Banner"></a>
 </p>
 
-<h1 align="center">Hi, I'm <a href="https://www.flareco.net>Dustin Klaas</a> (FlareCO)!</h1>
+<h1 align="center">Hi, I'm <a href="https://www.flareco.net">Dustin Klaas</a> (FlareCO)!</h1>
 <h1 align="center">Welcome to my GitHub profile ~ OwO</h1>
 
 <p align="center">
