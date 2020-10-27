@@ -17,7 +17,7 @@
   <strong><a href="https://www.twitch.tv/flareco">Twitch</a></strong>
 </p>
 
-<p align="center">❤ I'm currently working on Software, Game Developing and Financial Services.</p>
+<p align="center">❤ I'm currently working on Software, Games and Financial Services.</p>
 
 <!--
 **FlareCO/flareco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
