@@ -11,7 +11,7 @@
 
 <p align="center">
   <strong><a href="https://www.flareco.net">Official Website</a></strong> |
-  <strong><a href="https://play.google.com/store/apps/dev?id=8055225303972292814">Google Play</a></strong> |
+  <strong><a href="https://play.google.com/store/apps/dev?id=5357417970226759448">Google Play</a></strong> |
   <strong><a href="https://twitter.com/mrflareco">Twitter</a></strong> |
   <strong><a href="https://steamcommunity.com/id/flareconet/">Steam</a></strong> |
   <strong><a href="https://www.twitch.tv/flareco">Twitch</a></strong>
